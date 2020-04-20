@@ -1,0 +1,22 @@
+{
+  "name": "arjunkrishna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decoded-cipher/Portfolio_Website_001.git"
+  },
+  "author": "Decoded_Cipher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decoded-cipher/Portfolio_Website_001/issues"
+  },
+  "homepage": "https://github.com/decoded-cipher/Portfolio_Website_001#readme",
+  "dependencies": {
+    "firebase-tools": "^8.1.1"
+  }
+}
